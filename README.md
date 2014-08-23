@@ -3,6 +3,8 @@ CJSON
 
 this is a library to make a compact json by decoupling the definition from data in a json object
 
+* Example:
+
 
 { "EmployeeNumber": 23000, "EmployeeName" : "John Smith" }
 
